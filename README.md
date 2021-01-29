@@ -1,6 +1,6 @@
 # Banking-Web-App
 
-link to demo 
+link to demo http://htmlpreview.github.io/?https://github.com/selenalee123/Banking-Web-App/blob/master/index.html
 
 
 1. Prominent links to top pages
